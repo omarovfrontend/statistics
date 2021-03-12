@@ -1,3 +1,3 @@
 # statistics
 
-Demo - https://omarov-frontend.github.io/statistics/
+Demo - https://omarovfrontend.github.io/statistics/
